@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 🦆
+
+My name is Allison DiNapoli. 👩🏼‍💻
+
+I'm here to drink coffee and write code ☕️
 
 <!--
 **allison-dinapoli/allison-dinapoli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

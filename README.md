@@ -4,6 +4,13 @@ My name is Allison DiNapoli. 👩🏼‍💻
 
 I'm here to drink coffee and write code ☕️
 
+### Books 📚📖 
+
+Here's what I'm currently reading. This data is updated automagically based on my goodreads account and synced daily with an aws lambda.
+
+![Books I'm Currently Reading](https://book-to-svg.s3-us-west-2.amazonaws.com/books.svg)
+
+
 <!--
 **allison-dinapoli/allison-dinapoli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -8,7 +8,7 @@ I'm here to drink coffee and write code ☕️
 
 Here's what I'm currently reading. This data is updated automagically based on my goodreads account and synced daily with an aws lambda. The source code for this can be found [here](https://github.com/allison-dinapoli/book-to-svg).
 
-![Books I'm Currently Reading](https://book-to-svg.s3-us-west-2.amazonaws.com/books.svg)
+![Books I'm Currently Reading](https://book-to-svg.s3-us-west-2.amazonaws.com/books.svg?)
 
 
 <!--
